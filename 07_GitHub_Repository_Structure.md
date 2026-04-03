@@ -1,6 +1,6 @@
 # GenAI Mentorship Program Pack
 ### Applied GenAI Projects — Final Year Engineering Students
-**Mentor:** James Gnanasekaran · HCLTech
+**Mentor:** James Gnanasekaran 
 **Program Duration:** 8 Weeks
 **Weekly Call:** Every Sunday, 10:00 AM IST, 45 minutes via Microsoft Teams
 
